@@ -233,7 +233,7 @@ mixin AppLocale {
     uploading: '上传中...',
     robotIsThinkingMessage: '数字人正在思考中...',
     robotHasSomeError: '发送失败，重发该消息？',
-    appName: 'AIdea',
+    appName: 'AI助手',
     chatAnywhere: '聊一聊',
     homeTitle: '数字人',
     creativeIsland: '创作岛',
@@ -342,7 +342,7 @@ mixin AppLocale {
     errorLog: '故障日志',
     report: '上报',
     latestVersion: '当前已是最新版本',
-    aIdeaApp: 'AIdea是一款能够让你与 AI 对话的应用，应用代码完全开源。',
+    aIdeaApp: 'AI助手是一款能够让你与 AI 对话的应用，应用代码完全开源。',
     onceEnabledSmartOptimization: '智能优化\n\n启用后，AI 将进一步完善优化你的想法。',
     referenceImageNote: '参考图片\n\nAI 将会在该参考图片的基础上进行创作。',
     gotIt: '知道了',
@@ -429,7 +429,7 @@ mixin AppLocale {
     robotIsThinkingMessage: 'Thinking...',
     robotHasSomeError:
         'There seems to be something wrong, Do you want to resend the message?',
-    appName: 'AIdea',
+    appName: 'AI助手',
     chatAnywhere: 'Chat',
     homeTitle: 'Characters',
     creativeIsland: 'Creative',
@@ -546,7 +546,7 @@ mixin AppLocale {
     report: 'Report',
     latestVersion: 'You are currently on the latest version',
     aIdeaApp:
-        'AIdea is an app that allows you to converse with AI, and the app code is completely open source.',
+        'AI助手 is an app that allows you to converse with AI, and the app code is completely open source.',
     onceEnabledSmartOptimization:
         'Smart Optimization\n\nOnce enabled, AI will further refine and optimize your ideas.',
     gotIt: 'Got it',

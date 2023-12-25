@@ -129,7 +129,7 @@ class _SignupScreenState extends State<SignupScreen> {
                   AnimatedTextKit(
                     animatedTexts: [
                       ColorizeAnimatedText(
-                        'AIdea',
+                        'AI助手',
                         textStyle: const TextStyle(fontSize: 20.0),
                         colors: [
                           Colors.purple,
